@@ -1,0 +1,304 @@
+{
+  "version": 1,
+  "base_track": "Say Yes",
+  "base_artist": "Loco & Punch",
+  "createdAt": "2026-01-14T03:41:57.911323Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "(Do You Love Me) Just Say Yes",
+      "artist": "Highway 101",
+      "has_synced": true,
+      "path": "select/01_(Do_You_Love_Me)_Just_Say_Yes_Highway_101.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Say Yes",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/02_Say_Yes_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Say Yes",
+      "artist": "Nicole Scherzinger",
+      "has_synced": true,
+      "path": "select/03_Say_Yes_Nicole_Scherzinger.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "SAY YES",
+      "artist": "Debbie Gibson",
+      "has_synced": false,
+      "path": "select/04_SAY_YES_Debbie_Gibson.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Should I Say Yes?",
+      "artist": "Nu Shooz",
+      "has_synced": true,
+      "path": "select/05_Should_I_Say_Yes_Nu_Shooz.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Should I Say Yes? (The Mantronik CD Love Mix)",
+      "artist": "Nu Shooz",
+      "has_synced": true,
+      "path": "select/06_Should_I_Say_Yes__(The_Mantronik_CD_Love_Mix)_Nu_Shooz.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "You Gotta Say Yes to Another Excess",
+      "artist": "Yello",
+      "has_synced": true,
+      "path": "select/07_You_Gotta_Say_Yes_to_Another_Excess_Yello.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Always Say Yes",
+      "artist": "Glass Candy",
+      "has_synced": false,
+      "path": "select/08_I_Always_Say_Yes_Glass_Candy.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Just Say Yes - Acoustic Version",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/09_Just_Say_Yes_-_Acoustic_Version_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Just Say Yes (Acoustic)",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/10_Just_Say_Yes_(Acoustic)_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Just Say Yes (Curve Mix)",
+      "artist": "The Cure",
+      "has_synced": false,
+      "path": "select/11_Just_Say_Yes_(Curve_Mix)_The_Cure.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Just Say Yes (Curve Remix)",
+      "artist": "The Cure",
+      "has_synced": false,
+      "path": "select/12_Just_Say_Yes_(Curve_Remix)_The_Cure.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Say Yes",
+      "artist": "Comet Gain",
+      "has_synced": false,
+      "path": "select/13_Say_Yes_Comet_Gain.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "If You Can't Smile and Say Yes",
+      "artist": "The Nat King Cole Trio",
+      "has_synced": false,
+      "path": "select/14_If_You_Can't_Smile_and_Say_Yes_The_Nat_King_Cole_Trio.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Say Yes",
+      "artist": "Floetry",
+      "has_synced": true,
+      "path": "select/15_Say_Yes_Floetry.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Say Yes",
+      "artist": "Elliott Smith",
+      "has_synced": true,
+      "path": "select/16_Say_Yes_Elliott_Smith.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Just Say Yes",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/17_Just_Say_Yes_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Sajna, Say Yes To The Dress",
+      "artist": "Badshah feat. Payal Dev",
+      "has_synced": true,
+      "path": "select/18_Sajna,_Say_Yes_To_The_Dress_Badshah_feat._Payal_Dev.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Never Say Never",
+      "artist": "Cole Swindell",
+      "has_synced": true,
+      "path": "select/19_Never_Say_Never_Cole_Swindell.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Say So",
+      "artist": "Doja Cat",
+      "has_synced": true,
+      "path": "select/20_Say_So_Doja_Cat.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "All My Friends Say",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/21_All_My_Friends_Say_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "All My Friends Say (Album Version)",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/22_All_My_Friends_Say_(Album_Version)_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Can't Say I Ain't Country",
+      "artist": "Florida Georgia Line",
+      "has_synced": true,
+      "path": "select/23_Can't_Say_I_Ain't_Country_Florida_Georgia_Line.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Can’t Say I Ain’t Country",
+      "artist": "Florida Georgia Line",
+      "has_synced": true,
+      "path": "select/24_Can’t_Say_I_Ain’t_Country_Florida_Georgia_Line.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Don't Say Goodnight",
+      "artist": "CB30",
+      "has_synced": false,
+      "path": "select/25_Don't_Say_Goodnight_CB30.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Hard To Say I'm Sorry",
+      "artist": "Sara Evans",
+      "has_synced": true,
+      "path": "select/26_Hard_To_Say_I'm_Sorry_Sara_Evans.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "How Can I Help You Say Goodbye",
+      "artist": "Patty Loveless",
+      "has_synced": true,
+      "path": "select/27_How_Can_I_Help_You_Say_Goodbye_Patty_Loveless.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "How Can I Help You Say Goodbye (Album Version)",
+      "artist": "Patty Loveless",
+      "has_synced": true,
+      "path": "select/28_How_Can_I_Help_You_Say_Goodbye_(Album_Version)_Patty_Loveless.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "How to Say Goodbye",
+      "artist": "Dylan Marlowe",
+      "has_synced": false,
+      "path": "select/29_How_to_Say_Goodbye_Dylan_Marlowe.txt"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "I'm Not Strong Enough to Say No",
+      "artist": "BlackHawk",
+      "has_synced": false,
+      "path": "select/30_I'm_Not_Strong_Enough_to_Say_No_BlackHawk.txt"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "It's Never Easy To Say Goodbye",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/31_It's_Never_Easy_To_Say_Goodbye_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Just Say When",
+      "artist": "Walker Montgomery",
+      "has_synced": false,
+      "path": "select/32_Just_Say_When_Walker_Montgomery.txt"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Just to Hear You Say That You Love Me (feat. Tim McGraw)",
+      "artist": "Faith Hill",
+      "has_synced": true,
+      "path": "select/33_Just_to_Hear_You_Say_That_You_Love_Me_(feat._Tim_McGraw)_Faith_Hill.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "Just to Hear You Say That You Love Me (With Tim McGraw   Album Version)",
+      "artist": "Faith Hill",
+      "has_synced": true,
+      "path": "select/34_Just_to_Hear_You_Say_That_You_Love_Me_(With_Tim_McGraw_Album_Version)_Faith_Hill.lrc"
+    },
+    {
+      "id": "lrclib_35",
+      "source": "lrclib",
+      "title": "Kids Say the Darndest Things",
+      "artist": "Tammy Wynette",
+      "has_synced": true,
+      "path": "select/35_Kids_Say_the_Darndest_Things_Tammy_Wynette.lrc"
+    },
+    {
+      "id": "lrclib_36",
+      "source": "lrclib",
+      "title": "Kids Say The Darndest Things (Album Version)",
+      "artist": "Tammy Wynette",
+      "has_synced": true,
+      "path": "select/36_Kids_Say_The_Darndest_Things_(Album_Version)_Tammy_Wynette.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Say Yes",
+      "artist": "Loco & Punch",
+      "has_synced": false,
+      "path": "select/pl_01_Say_Yes_Loco_&_Punch.txt"
+    }
+  ]
+}
